@@ -1,0 +1,6 @@
+{
+  "name": "Blocky Highway: 3D Endless Car Runner",
+  "description": "An original 3D endless driving game with a voxel blocky aesthetic, 3-lane gameplay, jumps, coins, dynamic traffic obstacles, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
